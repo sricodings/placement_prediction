@@ -386,7 +386,7 @@ def main():
     }
     </style>
     <div class="footer">
-        <p>&copy; 2024 Srikanth. All rights reserved.</p>
+        <p>&copy; 2024 Srikanth Sridhar. All rights reserved.</p>
     </div>
     """,
     unsafe_allow_html=True
