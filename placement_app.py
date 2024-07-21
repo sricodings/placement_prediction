@@ -1,7 +1,7 @@
 
 import streamlit as st
 import pandas as pd
-import plotly as px
+import plotly.express as px
 from sklearn.linear_model import LinearRegression
 import numpy as np
 from database import create_table, add_user, authenticate_user
